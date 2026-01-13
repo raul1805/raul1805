@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Raul Andrei</h1>
+<h1 align="center">Hi there, I'm Raul</h1>
 <h3 align="center">Full-Stack Developer Beginner</h3>
 
 <p align="center">
-  🚀 Passionate about web development and constantly learning new technologies.<br>
-  🎓 Student interested in building real-world projects.<br>
+  🚀 Passionate about web development, constantly learning new technologies, games and music.<br>
+  💻 Beginner interested in building real-world projects.<br>
   💻 Focused on clean code and practical applications.
 </p>
 
