@@ -1,22 +1,22 @@
-<h1 align="center">Hi there, I'm Raul</h1>
-<h3 align="center">Full-Stack Developer Beginner</h3>
+<h1 align="center">Bună, sunt Raul</h1>
+<h3 align="center">Dezvoltator Full-Stack începător</h3>
 
 <p align="center">
-  🚀 Passionate about web development, constantly learning new technologies, games and music.<br>
-  💻 Beginner interested in building real-world projects.<br>
-  💻 Focused on clean code and practical applications.
+  🚀 Pasionat de dezvoltarea web, învățând constant noi tehnologii, jocuri și muzică.<br>
+  💻 Începător interesat de construirea de proiecte din lumea reală.<br>
+  💻 Concentrat pe cod curat și aplicații practice.
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tehnologii și instrumente
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,bootstrap,oracle,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Statistici GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raul1805&show_icons=true&theme=dark" />
 </p>
@@ -27,9 +27,11 @@
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Conectează-te cu mine
 <p align="center">
   <a href="https://github.com/raul1805">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+Translated with DeepL.com (free version)
