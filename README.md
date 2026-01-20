@@ -11,7 +11,7 @@
 
 ### 🛠️ Tehnologii și instrumente
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,bootstrap,oracle,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,bootstrap,vscode" />
 </p>
 
 ---
