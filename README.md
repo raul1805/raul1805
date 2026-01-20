@@ -30,8 +30,12 @@
 ### 🔗 Conectează-te cu mine
 <p align="center">
   <a href="https://github.com/raul1805">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp; <a href="https://www.instagram.com/raulandrei1805/">
+    <img src="https://img.shields.io/badge/Instagram_Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp; <a href="https://www.instagram.com/gamingraul11/">
+    <img src="https://img.shields.io/badge/Instagram_Gaming-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-Translated with DeepL.com (free version)
