@@ -2,7 +2,7 @@
 <h3 align="center">Dezvoltator Full-Stack începător</h3>
 
 <p align="center">
-  🚀 Pasionat de dezvoltarea web, învățând constant noi tehnologii, jocuri și muzică.<br>
+  🚀 Pasionat de dezvoltarea web, jocuri video, muzică si să învăț constant tehnologii și lucruri noi.<br>
   💻 Începător interesat de construirea de proiecte din lumea reală.<br>
   💻 Concentrat pe cod curat și aplicații practice.
 </p>
