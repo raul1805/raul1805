@@ -1,62 +1,67 @@
-<div align="center">
-
-# Hi, I'm Raul 👋
-
-### Aspiring Game & Software Developer
-
-🚀 Deeply passionate about technology, video games, music, and continuously learning new skills.<br>
-💻 Highly motivated to build the necessary skills for Game Development, Software Engineering, and QA Testing.<br>
-💻 My goal is to craft immersive worlds, build clean applications, and turn my passion into a full-time career.
-
-<br>
-
-*This GitHub profile, along with all my repositories, serves as my active portfolio.*
-
----
-
-### 🛠️ Technologies & Tools
-
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://www.gitskins.com/api/section/hero?username=raul1805&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254140752%3Fu%3D03664194d03b6ac709bd8f6b890b5e4d8e90447f%26v%3D4" alt="raul1805 hero visual" />
 </p>
 
----
+<p align="center"><b>Raul Andrei Duia</b> · Frontend or full-stack engineer<br/><sub>Full Stack Developer | Building Mobile, Web &amp; Game Projects | Passionate about Software &amp; Game Development</sub></p>
 
-### 📊 GitHub Stats
+<p align="center"><a href="https://github.com/raul1805">GitHub</a></p>
 
-<p align="center">
-  <a href="https://github.com/raul1805">
-    <img src="https://github-readme-stats.vercel.app/api?username=raul1805&show_icons=true&theme=dark" alt="Raul's GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/raul1805">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul1805&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-</p>
-
----
-
-### 🔗 Connect with me
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
 <p align="center">
-  <a href="https://github.com/raul1805">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/raulandrei1805/">
-    <img src="https://img.shields.io/badge/Instagram_Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Personal" />
-  </a>
-  <a href="https://www.instagram.com/gamingraul11/">
-    <img src="https://img.shields.io/badge/Instagram_Gaming-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Gaming" />
-  </a>
+  <img src="https://www.gitskins.com/api/section/projects?username=raul1805&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254140752%3Fu%3D03664194d03b6ac709bd8f6b890b5e4d8e90447f%26v%3D4" alt="raul1805 projects visual" />
 </p>
 
-</div>
+- [Sports-Field-Reservation-Platform](https://github.com/raul1805/Sports-Field-Reservation-Platform) · ★ 1 — A full-stack sports field reservation platform for managing facilities and booking sessions efficien
+- [Manager-Salon](https://github.com/raul1805/Manager-Salon) · ★ 1 — A modern Windows salon management app built for handling clients, services, appointments, and calend
+- [raul1805](https://github.com/raul1805/raul1805) · ★ 1 — My GitHub Profile
+- [To-Do-List-Aplication](https://github.com/raul1805/To-Do-List-Aplication) · ★ 1 — A modern task management app designed to keep daily work organised and easy to follow. It combines r
+- [Blooming-flowers-animation](https://github.com/raul1805/Blooming-flowers-animation) · ★ 1 — A visually rich front-end animation that brings glowing flowers to life with pure HTML5, CSS3 keyfra
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=raul1805&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254140752%3Fu%3D03664194d03b6ac709bd8f6b890b5e4d8e90447f%26v%3D4" alt="raul1805 stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>5</b> public repositories, <b>5</b> stars, <b>36</b> contributions in the last year, a longest streak of <b>3</b> days and <b>1</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=raul1805&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254140752%3Fu%3D03664194d03b6ac709bd8f6b890b5e4d8e90447f%26v%3D4" alt="raul1805 stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=raul1805&theme=neon" alt="raul1805 contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=raul1805&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254140752%3Fu%3D03664194d03b6ac709bd8f6b890b5e4d8e90447f%26v%3D4" alt="raul1805 social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Raul Andrei Duia · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
