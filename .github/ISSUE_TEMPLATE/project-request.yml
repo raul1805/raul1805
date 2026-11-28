@@ -1,0 +1,49 @@
+name: Project request / Cerere de proiect
+description: Tell me what you need. / Spune-mi de ce ai nevoie.
+title: "[Project] "
+labels: ["project request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This request is public.** Don't include private details such as phone numbers, addresses or passwords. I'll reply here and we can continue privately.
+        **Această cerere este publică.** Nu include date private (telefon, adresă, parole). Îți răspund aici și continuăm în privat.
+  - type: dropdown
+    id: service
+    attributes:
+      label: What do you need? / De ce ai nevoie?
+      multiple: true
+      options:
+        - Website / Site web
+        - Web app / Aplicație web
+        - Mobile app / Aplicație mobilă
+        - PC app / Aplicație PC
+        - Game (PC or mobile) / Joc (PC sau mobil)
+        - Design (web, app or game) / Design (web, aplicație sau joc)
+        - Consulting / Consultanță
+        - Hosting & maintenance / Găzduire și mentenanță
+        - OS install or upgrade / Instalare sau upgrade sistem de operare
+        - Software setup / Instalare software
+        - PC build or upgrade / Configurație sau upgrade PC
+        - Something else / Altceva
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Describe your project / Descrie proiectul
+      description: What should it do, who is it for, and any examples you like. / Ce trebuie să facă, pentru cine este și exemple care îți plac.
+    validations:
+      required: true
+  - type: input
+    id: timeline
+    attributes:
+      label: Timeline / Termen
+      placeholder: e.g. 2 months / de ex. 2 luni
+  - type: dropdown
+    id: language
+    attributes:
+      label: Preferred language / Limba preferată
+      options:
+        - English
+        - Română
