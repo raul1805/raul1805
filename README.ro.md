@@ -12,10 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/raul1805/raul1805/issues/new?template=project-request.yml"><img alt="Începe un proiect" src="https://img.shields.io/badge/%C3%8Encepe%20un%20proiect-8B1A1A?style=for-the-badge&labelColor=2B1A11&logo=rocket&logoColor=white"></a>
+  <a href="https://raul1805.github.io/#contact"><img alt="Începe un proiect" src="https://img.shields.io/badge/%C3%8Encepe%20un%20proiect-8B1A1A?style=for-the-badge&labelColor=2B1A11&logo=rocket&logoColor=white"></a>
   <a href="#proiecte-pe-care-le-poți-încerca"><img alt="Încearcă proiectele" src="https://img.shields.io/badge/%C3%8Encearc%C4%83%20proiectele-6B3F26?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://github.com/raul1805"><img alt="Urmărește pe GitHub" src="https://img.shields.io/github/followers/raul1805?label=Urm%C4%83re%C8%99te&style=for-the-badge&logo=github&labelColor=2B1A11&color=6B3F26&logoColor=white"></a>
 </p>
+<p align="center"><sub>sau <a href="mailto:raulit.1805@gmail.com?subject=Cerere%20de%20proiect&amp;body=Salut%20Raul%2C%0A%0ADe%20ce%20am%20nevoie%20%28site%20/%20aplica%C8%9Bie%20/%20joc%20/%20PC%20/%20altceva%29%3A%0A%0ADescriere%3A%0A%0ATermen%3A%0A%0ABuget%20%28op%C8%9Bional%29%3A%0A%0AMul%C8%9Bumesc%2C%0A">trimite-mi direct un email</a></sub></p>
 
 ## Ce fac
 
@@ -83,7 +84,7 @@
 
 <sub>Urmează și alte demo-uri live.</sub>
 
-> **Vrei o versiune doar a ta?** [Contactează-mă](https://github.com/raul1805/raul1805/issues/new?template=project-request.yml) și spune-mi de ce ai nevoie.
+> **Vrei o versiune doar a ta?** [Trimite-mi o cerere de proiect](https://raul1805.github.io/#contact) sau [scrie-mi un email](mailto:raulit.1805@gmail.com?subject=Cerere%20de%20proiect&body=Salut%20Raul%2C%0A%0ADe%20ce%20am%20nevoie%20%28site%20/%20aplica%C8%9Bie%20/%20joc%20/%20PC%20/%20altceva%29%3A%0A%0ADescriere%3A%0A%0ATermen%3A%0A%0ABuget%20%28op%C8%9Bional%29%3A%0A%0AMul%C8%9Bumesc%2C%0A).
 
 ## Jocuri și proiecte personale
 
@@ -93,7 +94,8 @@
 ## Contact
 
 <p>
-  <a href="https://github.com/raul1805/raul1805/issues/new?template=project-request.yml"><img alt="Începe un proiect" src="https://img.shields.io/badge/%C3%8Encepe%20un%20proiect-8B1A1A?style=flat-square&labelColor=2B1A11&logo=rocket&logoColor=white"></a>
+  <a href="https://raul1805.github.io/#contact"><img alt="Începe un proiect" src="https://img.shields.io/badge/%C3%8Encepe%20un%20proiect-8B1A1A?style=flat-square&labelColor=2B1A11&logo=rocket&logoColor=white"></a>
+  <a href="mailto:raulit.1805@gmail.com?subject=Cerere%20de%20proiect&amp;body=Salut%20Raul%2C%0A%0ADe%20ce%20am%20nevoie%20%28site%20/%20aplica%C8%9Bie%20/%20joc%20/%20PC%20/%20altceva%29%3A%0A%0ADescriere%3A%0A%0ATermen%3A%0A%0ABuget%20%28op%C8%9Bional%29%3A%0A%0AMul%C8%9Bumesc%2C%0A"><img alt="Trimite-mi un email" src="https://img.shields.io/badge/Email-6B3F26?style=flat-square&labelColor=2B1A11&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/raul1805"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-raul1805-2B1A11?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 

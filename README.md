@@ -12,10 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/raul1805/raul1805/issues/new?template=project-request.yml"><img alt="Start a project" src="https://img.shields.io/badge/Start%20a%20project-8B1A1A?style=for-the-badge&labelColor=2B1A11&logo=rocket&logoColor=white"></a>
+  <a href="https://raul1805.github.io/#contact"><img alt="Start a project" src="https://img.shields.io/badge/Start%20a%20project-8B1A1A?style=for-the-badge&labelColor=2B1A11&logo=rocket&logoColor=white"></a>
   <a href="#projects-you-can-try"><img alt="Try my projects" src="https://img.shields.io/badge/Try%20my%20projects-6B3F26?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://github.com/raul1805"><img alt="Follow on GitHub" src="https://img.shields.io/github/followers/raul1805?label=Follow&style=for-the-badge&logo=github&labelColor=2B1A11&color=6B3F26&logoColor=white"></a>
 </p>
+<p align="center"><sub>or <a href="mailto:raulit.1805@gmail.com?subject=Project%20request&amp;body=Hi%20Raul%2C%0A%0AWhat%20I%20need%20%28website%20/%20app%20/%20game%20/%20PC%20/%20other%29%3A%0A%0ADescription%3A%0A%0ATimeline%3A%0A%0ABudget%20%28optional%29%3A%0A%0AThanks%2C%0A">email me directly</a></sub></p>
 
 ## What I do
 
@@ -83,7 +84,7 @@
 
 <sub>More live demos are on the way.</sub>
 
-> **Want your own version?** [Contact me](https://github.com/raul1805/raul1805/issues/new?template=project-request.yml) and tell me what you need.
+> **Want your own version?** [Send me a project request](https://raul1805.github.io/#contact) or [email me](mailto:raulit.1805@gmail.com?subject=Project%20request&body=Hi%20Raul%2C%0A%0AWhat%20I%20need%20%28website%20/%20app%20/%20game%20/%20PC%20/%20other%29%3A%0A%0ADescription%3A%0A%0ATimeline%3A%0A%0ABudget%20%28optional%29%3A%0A%0AThanks%2C%0A).
 
 ## Games and personal projects
 
@@ -93,7 +94,8 @@
 ## Contact
 
 <p>
-  <a href="https://github.com/raul1805/raul1805/issues/new?template=project-request.yml"><img alt="Start a project" src="https://img.shields.io/badge/Start%20a%20project-8B1A1A?style=flat-square&labelColor=2B1A11&logo=rocket&logoColor=white"></a>
+  <a href="https://raul1805.github.io/#contact"><img alt="Start a project" src="https://img.shields.io/badge/Start%20a%20project-8B1A1A?style=flat-square&labelColor=2B1A11&logo=rocket&logoColor=white"></a>
+  <a href="mailto:raulit.1805@gmail.com?subject=Project%20request&amp;body=Hi%20Raul%2C%0A%0AWhat%20I%20need%20%28website%20/%20app%20/%20game%20/%20PC%20/%20other%29%3A%0A%0ADescription%3A%0A%0ATimeline%3A%0A%0ABudget%20%28optional%29%3A%0A%0AThanks%2C%0A"><img alt="Email me" src="https://img.shields.io/badge/Email%20me-6B3F26?style=flat-square&labelColor=2B1A11&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/raul1805"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-raul1805-2B1A11?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
